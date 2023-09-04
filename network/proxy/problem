@@ -1,0 +1,9 @@
+- mini nginx aka reverse proxy to understand HTTP and networking in more detail
+
+- take http request, forward it to real server, send back the response
+
+- support scale
+
+- support persistent connections
+
+- support caching
