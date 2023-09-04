@@ -7,3 +7,5 @@
 - support persistent connections
 
 - support caching
+
+- support mtls
